@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="FraudApplication #1 (port 8081)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <option name="ACTIVE_PROFILES" value="default" />
+    <module name="fraud" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="at.antonio.fraud.FraudApplication" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="at.antonio.fraud.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
